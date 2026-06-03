@@ -12,5 +12,8 @@ A collection of my daily Python exercises.
 ## How to run
 
 ```bash
+#Run even/odd checker
 python even_odd.py
+
+#Run find max program
 python find_max.py
